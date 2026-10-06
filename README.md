@@ -15,7 +15,7 @@ An end-to-end financial machine learning application that combines **technical i
 
 ## Overview
 
-AAPL Finance AI combines market price information with financial news sentiment in an interactive Streamlit application. It brings together historical AAPL market data, technical indicators, financial news, FinBERT sentiment analysis, and LSTM sequence modeling to estimate the next-day direction of AAPL stock.
+ForecastX combines market price information with financial news sentiment in an interactive Streamlit application. It brings together historical AAPL market data, technical indicators, financial news, FinBERT sentiment analysis, and LSTM sequence modeling to estimate the next-day direction of AAPL stock.
 
 ## Dashboard
 
@@ -65,7 +65,7 @@ Follow these steps to run the dashboard locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/samarth3868-coder/AAPL-FinanceAI.git
+git clone https://github.com/samarth3868-coder/forecastx-stock-trend-prediction.git
 cd AAPL-FinanceAI
 ```
 
