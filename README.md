@@ -1,4 +1,4 @@
-# AAPL Market Intelligence
+# ForecastX
 
 ### AI-Powered Stock Direction Prediction
 
